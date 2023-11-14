@@ -1,4 +1,3 @@
-# Secure-Polling-Site
 Overview
 Welcome to the Secure Polling Site, a secure and interactive platform for creating and participating in polls. This documentation provides a basic schema and overview of both the backend and frontend components.
 
